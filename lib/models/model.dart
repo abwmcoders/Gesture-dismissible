@@ -22,10 +22,10 @@ class DismissiblePageModel {
 
   List<StoryModel> stories = [];
   final contacts = {
-    'GitHub': 'https://github.com/Tkko',
-    'LinkedIn': 'https://www.linkedin.com/in/thornike/',
-    'Medium': 'https://thornike.medium.com/',
-    'Pub': 'https://pub.dev/publishers/fman.ge/packages',
+    'GitHub': 'https://github.com/abwmcoders',
+    'LinkedIn': 'https://www.linkedin.com/in/Mbmalik crib/',
+    'Medium': 'https://abwmcoders.medium.com/',
+    'Pub': 'https://pub.dev/',
   };
 
   Duration transitionDuration = const Duration(milliseconds: 250);

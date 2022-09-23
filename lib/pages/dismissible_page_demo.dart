@@ -1,3 +1,5 @@
+// ignore_for_file: library_private_types_in_public_api, prefer_const_constructors
+
 import 'dart:math';
 import 'package:dismissible_page/dismissible_page.dart';
 import 'package:flutter/material.dart';
@@ -27,7 +29,7 @@ class _DismissiblePageDemoState extends State<DismissiblePageDemo> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Tornike',
+              'Made Berry',
               style: GoogleFonts.poppins(
                 fontSize: 24,
                 fontWeight: FontWeight.w500,
